@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://js.okinstall.com</id>
+    <title>油猴脚本</title>
+    <updated>2022-08-16T03:27:07.771Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://js.okinstall.com"/>
+    <link rel="self" href="https://js.okinstall.com/atom.xml"/>
+    <subtitle>&lt;p style=&quot;font-size:10px;&quot;&gt;我只买了【拦截100】APP，目前在用他的油猴功能，所以以上收集的脚本也都是自己测试了发现能用的脚本。&lt;br /&gt;
+其他APP是否能用，我没测试，不清楚，你自己测试，不要问我。&lt;/p&gt;
+&lt;p style=&quot;color:red;&quot;&gt;拦截100全部测试通过✅&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;油猴脚本库 移动版&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;https://mp.weixin.qq.com/s/MYFCyvjZGNEFZk1ZnEKZqw&quot; target=&quot;_blank&quot; style=&quot;    border: 8px dashed #1e3;
+    display: none;
+    padding: 15px;
+    margin: 10px;&quot;&gt;
+&lt;img src=&quot;/asset/newa.jpg&quot; width=&quot;250&quot; height=&quot;250&quot; /&gt;
+&lt;/a&gt;
+&lt;br /&gt;</subtitle>
+    <logo>https://js.okinstall.com/images/avatar.png</logo>
+    <icon>https://js.okinstall.com/favicon.ico</icon>
+    <rights>All rights reserved 2022, 油猴脚本</rights>
+    <entry>
+        <title type="html"><![CDATA[Instagram下载按钮]]></title>
+        <id>https://js.okinstall.com/post/instagram-xia-zai-an-niu/</id>
+        <link href="https://js.okinstall.com/post/instagram-xia-zai-an-niu/">
+        </link>
+        <updated>2022-04-23T11:51:55.000Z</updated>
+        <content type="html"><![CDATA[<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/InstagramDownloadButton.user.js">【点击安装】</a></p>
+<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/InstagramDownloadButton.user.js" target="_blank" download>【下载到本地】</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百度网盘秒传链接提取]]></title>
+        <id>https://js.okinstall.com/post/bai-du-wang-pan-miao-chuan-lian-jie-ti-qu/</id>
+        <link href="https://js.okinstall.com/post/bai-du-wang-pan-miao-chuan-lian-jie-ti-qu/">
+        </link>
+        <updated>2022-04-01T06:25:08.000Z</updated>
+        <content type="html"><![CDATA[<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/秒传链接提取.user.js">【点击安装】</a></p>
+<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/秒传链接提取.user.js" target="_blank" download>【下载到本地】</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东方永页机自动翻页脚本]]></title>
+        <id>https://js.okinstall.com/post/dong-fang-yong-ye-ji-zi-dong-fan-ye-jiao-ben/</id>
+        <link href="https://js.okinstall.com/post/dong-fang-yong-ye-ji-zi-dong-fan-ye-jiao-ben/">
+        </link>
+        <updated>2022-03-19T04:03:29.000Z</updated>
+        <content type="html"><![CDATA[<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/东方永页机自动翻页脚本.user.js">【点击安装】</a></p>
+<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/东方永页机自动翻页脚本.user.js" target="_blank" download>【下载到本地】</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Youtube-mobile-embed-字幕]]></title>
+        <id>https://js.okinstall.com/post/youtube-mobile-embed-zi-mu/</id>
+        <link href="https://js.okinstall.com/post/youtube-mobile-embed-zi-mu/">
+        </link>
+        <updated>2022-03-19T02:39:47.000Z</updated>
+        <content type="html"><![CDATA[<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/Youtube-mobile-embed.user.js">【点击安装】</a></p>
+<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/Youtube-mobile-embed.user.js" target="_blank" download>【下载到本地】</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知乎浏览优化]]></title>
+        <id>https://js.okinstall.com/post/zhi-hu-liu-lan-you-hua/</id>
+        <link href="https://js.okinstall.com/post/zhi-hu-liu-lan-you-hua/">
+        </link>
+        <updated>2022-03-19T02:39:42.000Z</updated>
+        <content type="html"><![CDATA[<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/Zhihu.user.js">【点击安装】</a></p>
+<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/Zhihu.user.js" target="_blank" download>【下载到本地】</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Youtube-Auto-Translate-【自动翻译】]]></title>
+        <id>https://js.okinstall.com/post/youtube-auto-translate-zi-dong-fan-yi/</id>
+        <link href="https://js.okinstall.com/post/youtube-auto-translate-zi-dong-fan-yi/">
+        </link>
+        <updated>2022-03-19T02:39:37.000Z</updated>
+        <content type="html"><![CDATA[<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/Youtube-Auto-Translate.user.js">【点击安装】</a></p>
+<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/Youtube-Auto-Translate.user.js" target="_blank" download>【下载到本地】</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里云盘]]></title>
+        <id>https://js.okinstall.com/post/a-li-yun-pan/</id>
+        <link href="https://js.okinstall.com/post/a-li-yun-pan/">
+        </link>
+        <updated>2022-03-19T02:39:31.000Z</updated>
+        <content type="html"><![CDATA[<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/阿里云盘.user.js">【点击安装】</a></p>
+<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/阿里云盘.user.js" target="_blank" download>【下载到本地】</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👍最强VIP视频自动解析]]></title>
+        <id>https://js.okinstall.com/post/zui-qiang-vip-shi-pin-zi-dong-jie-xi/</id>
+        <link href="https://js.okinstall.com/post/zui-qiang-vip-shi-pin-zi-dong-jie-xi/">
+        </link>
+        <updated>2022-03-19T02:38:30.000Z</updated>
+        <content type="html"><![CDATA[<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/最强VIP视频自动解析.user.js">【点击安装】</a></p>
+<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/最强VIP视频自动解析.user.js" target="_blank" download>【下载到本地】</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Youtube画中画按钮]]></title>
+        <id>https://js.okinstall.com/post/youtube-pip-button/</id>
+        <link href="https://js.okinstall.com/post/youtube-pip-button/">
+        </link>
+        <updated>2022-03-11T09:18:02.000Z</updated>
+        <content type="html"><![CDATA[<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/Youtube-PiP-Button.user.js">【点击安装】</a></p>
+<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/Youtube-PiP-Button.user.js" target="_blank" download>【下载到本地】</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简单搜索百度系优化]]></title>
+        <id>https://js.okinstall.com/post/jian-dan-sou-suo-bai-du-xi-you-hua/</id>
+        <link href="https://js.okinstall.com/post/jian-dan-sou-suo-bai-du-xi-you-hua/">
+        </link>
+        <updated>2022-03-04T07:03:54.000Z</updated>
+        <content type="html"><![CDATA[<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/简单搜索百度系优化.user.js">【点击安装】</a></p>
+<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/简单搜索百度系优化.user.js" target="_blank" download>【下载到本地】</a></p>
+]]></content>
+    </entry>
+</feed>

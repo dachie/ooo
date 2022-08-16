@@ -1,0 +1,186 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Youtube画中画按钮 | 油猴脚本</title>
+<link rel="shortcut icon" href="https://js.okinstall.com/favicon.ico?v=1660620425025">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://js.okinstall.com/styles/main.css?t=1660620427722">
+<link rel="alternate" type="application/atom+xml" title="Youtube画中画按钮 | 油猴脚本 - Atom Feed" href="https://js.okinstall.com/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LD7CTCJQ69"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LD7CTCJQ69');
+</script>
+
+
+    <meta name="description" content="👇👇👇
+【点击安装】
+👇👇👇
+【下载到本地】
+..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://js.okinstall.com">
+  <img class="avatar" src="https://js.okinstall.com/images/avatar.png?v=1660620425025" alt="">
+  </a>
+  <h1 class="site-title">
+    油猴脚本
+  </h1>
+  <p class="site-description">
+    <p style="font-size:10px;">我只买了【拦截100】APP，目前在用他的油猴功能，所以以上收集的脚本也都是自己测试了发现能用的脚本。<br />
+其他APP是否能用，我没测试，不清楚，你自己测试，不要问我。</p>
+<p style="color:red;">拦截100全部测试通过✅</p>
+<br />
+<p>油猴脚本库 移动版</p>
+
+<br />
+<a href="https://mp.weixin.qq.com/s/MYFCyvjZGNEFZk1ZnEKZqw" target="_blank" style="    border: 8px dashed #1e3;
+    display: none;
+    padding: 15px;
+    margin: 10px;">
+<img src="/asset/newa.jpg" width="250" height="250" />
+</a>
+<br />
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              Youtube画中画按钮
+            </h2>
+            <div class="post-info">
+              <span>
+                2022-03-11
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/Youtube-PiP-Button.user.js">【点击安装】</a></p>
+<p>👇👇👇<br>
+<a href="https://js.okinstall.com/file/Youtube-PiP-Button.user.js" target="_blank" download>【下载到本地】</a></p>
+
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://js.okinstall.com/post/jian-dan-sou-suo-bai-du-xi-you-hua/">
+              <h3 class="post-title">
+                简单搜索百度系优化
+              </h3>
+            </a>
+          </div>
+        
+
+        
+
+        <div class="site-footer">
+  <div style="color:gray;">脚本皆来源于网络，并仅做公益性分享，版权归原作者所有，如不希望被分享请告知删除！<div>
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js?id=Jh2vxRpuRNMpTiW5&ck=Jh2vxRpuRNMpTiW5"></script>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>
